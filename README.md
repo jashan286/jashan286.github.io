@@ -3,4 +3,4 @@
 |date|resource person|description|
 | ----------- | ----------- | ----------- |
 |15/07/24 |Dr. Pyare lal | speech on various topics mainly focusing on the importance of universe as a form of enery with multiple quotes from great personalities like guru nanak dev ji and old hindi kavitas |
-![Screenshot_20240715_210326_Samsung Internet (1)](https://github.com/user-attachments/assets/8a7935f0-a749-4fcf-80ff-282187abebea)
+
